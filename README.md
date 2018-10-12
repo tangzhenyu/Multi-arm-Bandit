@@ -27,10 +27,11 @@ resources of multi-arm bandit
 ### Academic Articles
 * [Latent Contextual Bandits and Their Application to Personalized Recommendations for New Users](https://www.ijcai.org/Proceedings/16/Papers/513.pdf)
 * [A Survey on Contextual Multi-armed Bandits](http://arxiv.org/abs/1508.03326)
-* Contextual Bandits in A Collaborative Environment(SIGIR'2016)
-* Learning Hidden Features for Contextual Bandits. (CIKM 2016)
-* Factorization Bandits for Interactive Recommendation.(AAAI 2017).
-* Returning is Believing: Optimizing Long-term User Engagement in Recommender Systems.(CIKM 2017)
+* [Contextual Bandits in A Collaborative Environment(SIGIR'2016)]()
+* [Learning Hidden Features for Contextual Bandits. (CIKM 2016)]()
+* [Factorization Bandits for Interactive Recommendation.(AAAI 2017)]()
+* [Returning is Believing: Optimizing Long-term User Engagement in Recommender Systems.(CIKM 2017)]()
+* [Portfolio Choices with Orthogonal Bandit Learning-IJCAI 2015] (http://yugangjiang.info/publication/ijcai15-OBL.pdf)
 
 ### Blog Posts
 * [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/bandit-tests/)
