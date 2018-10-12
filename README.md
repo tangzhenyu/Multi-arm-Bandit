@@ -2,10 +2,10 @@
 resources of multi-arm bandit
 
 ### The features of a multi-arm bandit problem:
-*(F1) only one machine is operated at each time instant. The evolution of the machine that is being operated is uncontrolled; that is, the processor chooses which machine to operate but not how to operate it;
-*(F2) machines that are not operated remain frozen; 
-*(F3) machines are independent;
-*(F4) frozen machines contribute no reward.
+* (F1) only one machine is operated at each time instant. The evolution of the machine that is being operated is uncontrolled; that is, the processor chooses which machine to operate but not how to operate it;
+* (F2) machines that are not operated remain frozen; 
+* (F3) machines are independent;
+* (F4) frozen machines contribute no reward.
 
 ### Algorithms:
 * Epsilon-Greedy
