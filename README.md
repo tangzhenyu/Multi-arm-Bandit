@@ -57,3 +57,4 @@ resources of multi-arm bandit
 - [Csaba Szepesvari-Deepmind/Alberta University](https://scholar.google.com.hk/citations?user=zvC19mQAAAAJ&hl=zh-CN)
 - [Emma Brunskill-Stanford University](https://scholar.google.com/citations?user=HaN8b2YAAAAJ&hl=en&oi=sra)
 - [Sebastien Bubeck-Senior Researcher, Theory Group, Microsoft Research](https://scholar.google.com/citations?user=V2Y1L4sAAAAJ&hl=en)
+- [Nicolò Cesa-Bianchi-Professor of Computer Science, Università degli Studi di Milano](https://scholar.google.com/citations?user=BWADJUkAAAAJ&hl=en)
