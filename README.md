@@ -58,3 +58,4 @@ resources of multi-arm bandit
 - [Emma Brunskill-Stanford University](https://scholar.google.com/citations?user=HaN8b2YAAAAJ&hl=en&oi=sra)
 - [Sebastien Bubeck-Senior Researcher, Theory Group, Microsoft Research](https://scholar.google.com/citations?user=V2Y1L4sAAAAJ&hl=en)
 - [Nicolò Cesa-Bianchi-Professor of Computer Science, Università degli Studi di Milano](https://scholar.google.com/citations?user=BWADJUkAAAAJ&hl=en)
+- [Vianney Perchet-Professeur de Mathématiques Appliquées au CMLA, ENS Paris-Saclay](https://sites.google.com/site/vianneyperchet/cache)
