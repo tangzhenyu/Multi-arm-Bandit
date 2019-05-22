@@ -50,6 +50,9 @@ resources of multi-arm bandit
 * [ODSC East 2016 - Bayesian Bandits](https://goo.gl/TJt8sG)
 * [NYC ML Meetup 2010 - Learning for Contextual Bandits](http://hunch.net/~exploration_learning/main.pdf)
 
+### Resources
+* [https://github.com/tor/libbandit](https://github.com/tor/libbandit)
+
 ### scholars
 - [David S. Leslie-Lancaster University](https://scholar.google.co.uk/citations?user=ev_o35QAAAAJ&hl=en)
 - [B. Van Roy-Stanford University](https://web.stanford.edu/~bvr/)
